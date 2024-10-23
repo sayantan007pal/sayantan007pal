@@ -1,3 +1,6 @@
+[![An image of @sayantanpal100's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sayantanpal100)](https://holopin.io/@sayantanpal100)
+
+
 <h1 align="center">Hi 👋, I'm Sayantan Pal</h1>
 <h3 align="center">passionate Digital VLSI Developer</h3>
 
